@@ -27,7 +27,8 @@ function grow() {
 
 function changebg () {
     console.log("change background");
-    bg.setAttribute('src', "mountains.jpg")
+    // bg.setAttribute('src', "mountains.jpg")
+    bg.setAttribute('src', "Cw7hBB_crop.jpg")
     
     
 }
